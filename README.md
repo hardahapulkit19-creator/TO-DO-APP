@@ -30,7 +30,8 @@ To-Do-App
 ## 📸 Preview
 
 Simple and user-friendly interface for managing tasks.
-<img width="1891" height="899" alt="Screenshot 2026-03-20 133212" src="https://github.com/user-attachments/assets/aa5ec527-9fd8-4141-82eb-794b7da61b7f" />
+<img width="1905" height="910" alt="Screenshot 2026-03-19 220834" src="https://github.com/user-attachments/assets/db70ca36-90e7-4c67-a954-1b8bbd37afb9" />
+
 
 
 ## ⚙️ How to Run
